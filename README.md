@@ -1,3 +1,2 @@
-Hi, I am Artem
-I am .NET Developer
-and I will send my ASP.NET.Core projects here
+Hi, man, here you can watch my c# code and critic it!
+I am coding now in Unity, .NET .
